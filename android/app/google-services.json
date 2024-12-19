@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "391279871687",
+    "project_id": "realduedojo",
+    "storage_bucket": "realduedojo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391279871687:android:018283079da09c5436e0e2",
+        "android_client_info": {
+          "package_name": "com.mycompany.realduedojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391279871687-66uh5qrj77j50cnihiqe97g8nd0upap7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.realduedojo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "391279871687-7rmjvq3oi16vg4r9ihb604pudi9t10bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391279871687-7rmjvq3oi16vg4r9ihb604pudi9t10bm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391279871687-7lsok3vorg5h23ic0cvfofdqvti0av17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.realduedojo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

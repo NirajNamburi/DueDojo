@@ -60,7 +60,7 @@ DueDojo streamlines deadline management for students, providing an intuitive int
 - **User Base**: 300+ active users
 - **Engagement Rate**: 70% over 5 months
 - **Cross-Platform Usage**: Available on both iOS and Android
-- **Launch Date**: July 2023
+- **Launch Date**: November 2023
 
 ## Configuration
 

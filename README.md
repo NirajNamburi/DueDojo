@@ -31,8 +31,8 @@ DueDojo streamlines deadline management for students, providing an intuitive int
 ## Installation
 
 ### App Stores
-- [Download on the App Store](your-app-store-link)
-- [Get it on Google Play](your-play-store-link)
+- [Download on the App Store](https://apps.apple.com/in/app/duedojo/id6464222296)
+- [Get it on Google Play](https://play.google.com/store/apps/details?id=com.NirajNamburi.duedojo&hl=en_US)
 
 ### Build from Source
 1. Clone the repository
